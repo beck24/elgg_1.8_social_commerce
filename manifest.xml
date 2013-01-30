@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest>
+	<field key="author" value="Cubet Technologies"/>
+	<field key="version" value="1.2"/>
+	<field key="description" value="Elgg stores plugin. This plugin adds ecommerce features to your elgg installation."/>
+	<field key="licence" value="GNU Public License version 2"/>
+	<field key="website" value="http://elgghub.com/"/>
+	<field key="copyright" value="(C) Cubet Technologies 2009"/>
+	<field key="elgg_version" value="2009031301" />
+</plugin_manifest>
